@@ -17,3 +17,4 @@ Compare the 'target' image hash in <file1> to the 'scene' images <file2>, <file3
 ./test.exe -q file1 file2 file3 res_scene_x res_scene_y res_target_x res_target_y offset_x offset_y
 Compare target image hash <file1> to scene image hash <file2>, which are transformed by the 6 final arguments, and written out to output <file3>. This output file displays the results of the comparison. Pixels will be one of 4 colors: white if neither input file contains a vertex in that location, red if only the target image contains a vertex there, blue if only the scene image contains a vertex there, and green if both do.
 
+![Demo Image](BitmapToolDemo.png)
