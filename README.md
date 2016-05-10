@@ -1,0 +1,2 @@
+# BitmapTool
+Analyze bitmap images
